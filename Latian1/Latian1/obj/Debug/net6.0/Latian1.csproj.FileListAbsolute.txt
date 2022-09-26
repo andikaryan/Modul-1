@@ -1,0 +1,15 @@
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\bin\Debug\net6.0\Latian1.exe
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\bin\Debug\net6.0\Latian1.deps.json
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\bin\Debug\net6.0\Latian1.runtimeconfig.json
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\bin\Debug\net6.0\Latian1.dll
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\bin\Debug\net6.0\Latian1.pdb
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.csproj.AssemblyReference.cache
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.AssemblyInfoInputs.cache
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.AssemblyInfo.cs
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.csproj.CoreCompileInputs.cache
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.dll
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\refint\Latian1.dll
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.pdb
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\Latian1.genruntimeconfig.cache
+D:\MATA KULIYEAAH\Season 3\PBO\PR\Latian1\Latian1\obj\Debug\net6.0\ref\Latian1.dll
